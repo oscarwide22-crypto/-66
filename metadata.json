@@ -1,0 +1,6 @@
+{
+  "name": "Spark Capital",
+  "description": "An elite, global venture capital firm investing in frontier technologies: Artificial Intelligence, Quantum Computing, Climate, and Space Exploration. Sleek, high-contrast visual identity and institutional-grade analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
